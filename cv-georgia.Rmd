@@ -27,7 +27,7 @@ h1, h2 {
 
 ### **Experience**
 * Retail
-    * Manager registed transactions, restocking [May 2017 - August 2019]{style="float:right"} 
+    * Managed register transactions, restocking [May 2017 - August 2019]{style="float:right"} 
 * Server
     * Worked efficiently in a fast-paced environment to deliver high quality customer service [May 2022 - August 2022]{style="float:right"} 
 * Barista [May 2022 - August 2022]{style="float:right"} 
